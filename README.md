@@ -1,6 +1,6 @@
 # Java-Shop
 
-A Java-based shop application developed as a course project for CITB408.
+A Java-based shop application
 
 ## Overview
 
