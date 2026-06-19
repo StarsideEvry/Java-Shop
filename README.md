@@ -1,4 +1,13 @@
-# The_Java_Shop_Project
-A Shop project written in Java
+# Java-Shop
 
-A simple university projecto write a program simulating a shop and it's functions, written in Java
+A Java-based shop application developed as a course project for CITB408.
+
+## Overview
+
+Java-Shop is a command-line or GUI-based shopping application that demonstrates core Java programming concepts including object-oriented design, data structures, and user interaction patterns.
+
+## Features
+
+- Product catalog management
+- Shopping cart functionality
+- Order processing
